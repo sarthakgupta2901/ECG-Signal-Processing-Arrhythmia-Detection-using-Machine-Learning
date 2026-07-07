@@ -207,42 +207,6 @@ Support Vector Machine (SVM) and Random Forest demonstrated reliable performance
 - Cloud-based healthcare systems
 - Integration with wearable health monitoring devices
 
----
-
-## Repository Contents
-
-- README.md
-- Project_Report.pdf
-- ECG_Arrhythmia_Detection.ipynb
-- Python source code
-- ECG result images
-- requirements.txt
-
----
-
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/ECG-Signal-Processing-and-Arrhythmia-Detection-Using-Machine-Learning.git
-```
-
-Install the required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## Running the Project
-
-1. Clone or download this repository.
-2. Open **ECG_Arrhythmia_Detection.ipynb** in Google Colab.
-3. Install the required libraries if prompted.
-4. Run the notebook cells sequentially.
-5. View the generated evaluation metrics and visualizations.
 
 ---
 
@@ -250,7 +214,5 @@ pip install -r requirements.txt
 
 **Sarthak Gupta**
 
-B.Tech in Electronics & Communication Engineering
 
-Jaypee Institute of Information Technology, Noida
 
